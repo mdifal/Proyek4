@@ -3,6 +3,15 @@
 ## Tampilan awal project
 ![1](https://github.com/mdifal/Proyek4/assets/86935367/91714227-d2ef-4f64-8c83-daf26d130214)
 
+## Final Setelah Modifikasi
+![modfiikon](https://github.com/mdifal/Proyek4/assets/86935367/f70856fc-8a2b-4154-99cf-8f9122297561)
+
+![prifle](https://github.com/mdifal/Proyek4/assets/86935367/9a67f049-be18-40d4-8f18-6e68554d280b)
+
+### Hal yang diubah
+1. Ikon Back to login
+2. Fitur Profile yang berisi: NIM, Nama, Kelas, Mata Kuliah
+
 ## 1. Tampilan Akhir Codelab 1
 ### Login
 ![3](https://github.com/mdifal/Proyek4/assets/86935367/44f62b02-3d63-487c-a606-5a19ccc82a90)
