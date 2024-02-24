@@ -1,6 +1,11 @@
-# MDC-100 Series of Codelabs
+# Pertemuan 3 MDC - Shrine
 
-## Getting Started
+## Tampilan awal project
+![1](https://github.com/mdifal/Proyek4/assets/86935367/91714227-d2ef-4f64-8c83-daf26d130214)
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## 1. Tampilan Akhir Codelab 1
+### Sebelum klik next
+![3](https://github.com/mdifal/Proyek4/assets/86935367/44f62b02-3d63-487c-a606-5a19ccc82a90)
+
+### Setelah klik next
+![4](https://github.com/mdifal/Proyek4/assets/86935367/d0cc04d2-eb8e-4d4a-a7e6-560ae849eacf)
