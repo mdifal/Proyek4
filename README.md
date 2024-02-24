@@ -1,5 +1,6 @@
 # Pertemuan 3 MDC - Shrine
 
+## Hasil Akhir
 ## Tampilan awal project
 ![1](https://github.com/mdifal/Proyek4/assets/86935367/91714227-d2ef-4f64-8c83-daf26d130214)
 
@@ -12,6 +13,7 @@
 1. Ikon Back to login
 2. Fitur Profile yang berisi: NIM, Nama, Kelas, Mata Kuliah
 
+## Proses
 ## 1. Tampilan Akhir Codelab 1
 ### Login
 ![3](https://github.com/mdifal/Proyek4/assets/86935367/44f62b02-3d63-487c-a606-5a19ccc82a90)
