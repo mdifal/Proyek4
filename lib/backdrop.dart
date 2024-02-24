@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:shrine/profile.dart';
 
 import 'model/product.dart';
 import 'login.dart';
+import 'profile.dart';
 
 // TODO: Add velocity constant (104)
 const double _kFlingVelocity = 2.0;
@@ -256,7 +258,7 @@ title: _BackdropTitle(
                 // TODO: Add shortcut to login screen from trailing icons (104)
         IconButton(
           icon: const Icon(
-            Icons.search,
+            Icons.logout,
             semanticLabel: 'login' // New code
           ),
           onPressed: () {
@@ -268,20 +270,22 @@ title: _BackdropTitle(
             );
           },
         ),
-        IconButton(
+
+                IconButton(
           icon: const Icon(
-            Icons.tune,
-            semanticLabel: 'login', // New code
+            Icons.person,
+            semanticLabel: 'Profile' // New code
           ),
           onPressed: () {
             // TODO: Add open login (104)
             Navigator.push(
               context,
               MaterialPageRoute(
-                builder: (BuildContext context) => LoginPage()),
+                builder: (BuildContext context) => ProfilePage()),
             );
           },
         ),
+
         IconButton(
           icon: Icon(
             Icons.search,
