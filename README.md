@@ -9,3 +9,6 @@
 
 ### Setelah klik next
 ![4](https://github.com/mdifal/Proyek4/assets/86935367/d0cc04d2-eb8e-4d4a-a7e6-560ae849eacf)
+
+## 2. Tampilan Akhir Codelab 2
+![codelab2](https://github.com/mdifal/Proyek4/assets/86935367/6d9a04c0-526e-4cc9-834c-00e589b43284)
